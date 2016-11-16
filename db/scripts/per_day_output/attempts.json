@@ -1,0 +1,242 @@
+[
+	{
+		"day_of" : "2016-08-19",
+		"num_attempts" : 13,
+		"num_correct" : 9
+	},
+	{
+		"day_of" : "2016-08-20",
+		"num_attempts" : 5,
+		"num_correct" : 5
+	},
+	{
+		"day_of" : "2016-08-21",
+		"num_attempts" : 669,
+		"num_correct" : 442
+	},
+	{
+		"day_of" : "2016-08-22",
+		"num_attempts" : 692,
+		"num_correct" : 506
+	},
+	{
+		"day_of" : "2016-08-23",
+		"num_attempts" : 1973,
+		"num_correct" : 1393
+	},
+	{
+		"day_of" : "2016-08-24",
+		"num_attempts" : 1419,
+		"num_correct" : 1058
+	},
+	{
+		"day_of" : "2016-08-25",
+		"num_attempts" : 1167,
+		"num_correct" : 785
+	},
+	{
+		"day_of" : "2016-08-26",
+		"num_attempts" : 768,
+		"num_correct" : 557
+	},
+	{
+		"day_of" : "2016-08-27",
+		"num_attempts" : 461,
+		"num_correct" : 348
+	},
+	{
+		"day_of" : "2016-08-28",
+		"num_attempts" : 551,
+		"num_correct" : 398
+	},
+	{
+		"day_of" : "2016-08-29",
+		"num_attempts" : 1315,
+		"num_correct" : 915
+	},
+	{
+		"day_of" : "2016-08-30",
+		"num_attempts" : 2131,
+		"num_correct" : 1463
+	},
+	{
+		"day_of" : "2016-08-31",
+		"num_attempts" : 5755,
+		"num_correct" : 3083
+	},
+	{
+		"day_of" : "2016-09-01",
+		"num_attempts" : 7182,
+		"num_correct" : 3703
+	},
+	{
+		"day_of" : "2016-09-02",
+		"num_attempts" : 4782,
+		"num_correct" : 2164
+	},
+	{
+		"day_of" : "2016-09-03",
+		"num_attempts" : 3708,
+		"num_correct" : 1568
+	},
+	{
+		"day_of" : "2016-09-04",
+		"num_attempts" : 7351,
+		"num_correct" : 2876
+	},
+	{
+		"day_of" : "2016-09-05",
+		"num_attempts" : 16591,
+		"num_correct" : 7330
+	},
+	{
+		"day_of" : "2016-09-06",
+		"num_attempts" : 32267,
+		"num_correct" : 16354
+	},
+	{
+		"day_of" : "2016-09-07",
+		"num_attempts" : 11757,
+		"num_correct" : 7095
+	},
+	{
+		"day_of" : "2016-09-08",
+		"num_attempts" : 16699,
+		"num_correct" : 11468
+	},
+	{
+		"day_of" : "2016-09-09",
+		"num_attempts" : 15038,
+		"num_correct" : 9458
+	},
+	{
+		"day_of" : "2016-09-10",
+		"num_attempts" : 4315,
+		"num_correct" : 2975
+	},
+	{
+		"day_of" : "2016-09-11",
+		"num_attempts" : 4874,
+		"num_correct" : 3224
+	},
+	{
+		"day_of" : "2016-09-12",
+		"num_attempts" : 4741,
+		"num_correct" : 2824
+	},
+	{
+		"day_of" : "2016-09-13",
+		"num_attempts" : 3381,
+		"num_correct" : 1989
+	},
+	{
+		"day_of" : "2016-09-14",
+		"num_attempts" : 4196,
+		"num_correct" : 2105
+	},
+	{
+		"day_of" : "2016-09-15",
+		"num_attempts" : 5559,
+		"num_correct" : 3084
+	},
+	{
+		"day_of" : "2016-09-16",
+		"num_attempts" : 4910,
+		"num_correct" : 2755
+	},
+	{
+		"day_of" : "2016-09-17",
+		"num_attempts" : 1430,
+		"num_correct" : 696
+	},
+	{
+		"day_of" : "2016-09-18",
+		"num_attempts" : 5397,
+		"num_correct" : 2532
+	},
+	{
+		"day_of" : "2016-09-19",
+		"num_attempts" : 10780,
+		"num_correct" : 5121
+	},
+	{
+		"day_of" : "2016-09-20",
+		"num_attempts" : 10434,
+		"num_correct" : 5085
+	},
+	{
+		"day_of" : "2016-09-21",
+		"num_attempts" : 4352,
+		"num_correct" : 1855
+	},
+	{
+		"day_of" : "2016-09-22",
+		"num_attempts" : 3785,
+		"num_correct" : 1773
+	},
+	{
+		"day_of" : "2016-09-23",
+		"num_attempts" : 6076,
+		"num_correct" : 2883
+	},
+	{
+		"day_of" : "2016-09-24",
+		"num_attempts" : 9169,
+		"num_correct" : 3885
+	},
+	{
+		"day_of" : "2016-09-25",
+		"num_attempts" : 22581,
+		"num_correct" : 9569
+	},
+	{
+		"day_of" : "2016-09-26",
+		"num_attempts" : 24635,
+		"num_correct" : 12668
+	},
+	{
+		"day_of" : "2016-09-27",
+		"num_attempts" : 16778,
+		"num_correct" : 10214
+	},
+	{
+		"day_of" : "2016-09-28",
+		"num_attempts" : 4016,
+		"num_correct" : 2144
+	},
+	{
+		"day_of" : "2016-09-29",
+		"num_attempts" : 2795,
+		"num_correct" : 1598
+	},
+	{
+		"day_of" : "2016-09-30",
+		"num_attempts" : 3939,
+		"num_correct" : 2231
+	},
+	{
+		"day_of" : "2016-10-01",
+		"num_attempts" : 3161,
+		"num_correct" : 2207
+	},
+	{
+		"day_of" : "2016-10-02",
+		"num_attempts" : 9157,
+		"num_correct" : 5311
+	},
+	{
+		"day_of" : "2016-10-03",
+		"num_attempts" : 10810,
+		"num_correct" : 5942
+	},
+	{
+		"day_of" : "2016-10-04",
+		"num_attempts" : 11279,
+		"num_correct" : 6485
+	},
+	{
+		"day_of" : "2016-10-05",
+		"num_attempts" : 3147,
+		"num_correct" : 1557
+	}
+]

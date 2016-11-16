@@ -1,0 +1,194 @@
+[
+	{
+		"day_of" : "2016-08-19",
+		"num_users_day" : 1
+	},
+	{
+		"day_of" : "2016-08-20",
+		"num_users_day" : 5
+	},
+	{
+		"day_of" : "2016-08-21",
+		"num_users_day" : 28
+	},
+	{
+		"day_of" : "2016-08-22",
+		"num_users_day" : 74
+	},
+	{
+		"day_of" : "2016-08-23",
+		"num_users_day" : 183
+	},
+	{
+		"day_of" : "2016-08-24",
+		"num_users_day" : 133
+	},
+	{
+		"day_of" : "2016-08-25",
+		"num_users_day" : 138
+	},
+	{
+		"day_of" : "2016-08-26",
+		"num_users_day" : 57
+	},
+	{
+		"day_of" : "2016-08-27",
+		"num_users_day" : 45
+	},
+	{
+		"day_of" : "2016-08-28",
+		"num_users_day" : 61
+	},
+	{
+		"day_of" : "2016-08-29",
+		"num_users_day" : 124
+	},
+	{
+		"day_of" : "2016-08-30",
+		"num_users_day" : 163
+	},
+	{
+		"day_of" : "2016-08-31",
+		"num_users_day" : 179
+	},
+	{
+		"day_of" : "2016-09-01",
+		"num_users_day" : 163
+	},
+	{
+		"day_of" : "2016-09-02",
+		"num_users_day" : 107
+	},
+	{
+		"day_of" : "2016-09-03",
+		"num_users_day" : 65
+	},
+	{
+		"day_of" : "2016-09-04",
+		"num_users_day" : 111
+	},
+	{
+		"day_of" : "2016-09-05",
+		"num_users_day" : 195
+	},
+	{
+		"day_of" : "2016-09-06",
+		"num_users_day" : 263
+	},
+	{
+		"day_of" : "2016-09-07",
+		"num_users_day" : 281
+	},
+	{
+		"day_of" : "2016-09-08",
+		"num_users_day" : 313
+	},
+	{
+		"day_of" : "2016-09-09",
+		"num_users_day" : 234
+	},
+	{
+		"day_of" : "2016-09-10",
+		"num_users_day" : 149
+	},
+	{
+		"day_of" : "2016-09-11",
+		"num_users_day" : 231
+	},
+	{
+		"day_of" : "2016-09-12",
+		"num_users_day" : 206
+	},
+	{
+		"day_of" : "2016-09-13",
+		"num_users_day" : 167
+	},
+	{
+		"day_of" : "2016-09-14",
+		"num_users_day" : 115
+	},
+	{
+		"day_of" : "2016-09-15",
+		"num_users_day" : 136
+	},
+	{
+		"day_of" : "2016-09-16",
+		"num_users_day" : 125
+	},
+	{
+		"day_of" : "2016-09-17",
+		"num_users_day" : 43
+	},
+	{
+		"day_of" : "2016-09-18",
+		"num_users_day" : 99
+	},
+	{
+		"day_of" : "2016-09-19",
+		"num_users_day" : 222
+	},
+	{
+		"day_of" : "2016-09-20",
+		"num_users_day" : 221
+	},
+	{
+		"day_of" : "2016-09-21",
+		"num_users_day" : 180
+	},
+	{
+		"day_of" : "2016-09-22",
+		"num_users_day" : 131
+	},
+	{
+		"day_of" : "2016-09-23",
+		"num_users_day" : 147
+	},
+	{
+		"day_of" : "2016-09-24",
+		"num_users_day" : 153
+	},
+	{
+		"day_of" : "2016-09-25",
+		"num_users_day" : 299
+	},
+	{
+		"day_of" : "2016-09-26",
+		"num_users_day" : 386
+	},
+	{
+		"day_of" : "2016-09-27",
+		"num_users_day" : 306
+	},
+	{
+		"day_of" : "2016-09-28",
+		"num_users_day" : 205
+	},
+	{
+		"day_of" : "2016-09-29",
+		"num_users_day" : 135
+	},
+	{
+		"day_of" : "2016-09-30",
+		"num_users_day" : 94
+	},
+	{
+		"day_of" : "2016-10-01",
+		"num_users_day" : 122
+	},
+	{
+		"day_of" : "2016-10-02",
+		"num_users_day" : 223
+	},
+	{
+		"day_of" : "2016-10-03",
+		"num_users_day" : 276
+	},
+	{
+		"day_of" : "2016-10-04",
+		"num_users_day" : 221
+	},
+	{
+		"day_of" : "2016-10-05",
+		"num_users_day" : 85
+	}
+]

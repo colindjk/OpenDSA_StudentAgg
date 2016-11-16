@@ -1,0 +1,242 @@
+[
+	{
+		"user_id" : 56,
+		"num_attempts" : 13,
+		"num_correct" : 9
+	},
+	{
+		"user_id" : 58,
+		"num_attempts" : 5,
+		"num_correct" : 5
+	},
+	{
+		"user_id" : 60,
+		"num_attempts" : 669,
+		"num_correct" : 442
+	},
+	{
+		"user_id" : 79,
+		"num_attempts" : 692,
+		"num_correct" : 506
+	},
+	{
+		"user_id" : 137,
+		"num_attempts" : 1973,
+		"num_correct" : 1393
+	},
+	{
+		"user_id" : 278,
+		"num_attempts" : 1419,
+		"num_correct" : 1058
+	},
+	{
+		"user_id" : 200,
+		"num_attempts" : 1167,
+		"num_correct" : 785
+	},
+	{
+		"user_id" : 160,
+		"num_attempts" : 768,
+		"num_correct" : 557
+	},
+	{
+		"user_id" : 56,
+		"num_attempts" : 461,
+		"num_correct" : 348
+	},
+	{
+		"user_id" : 192,
+		"num_attempts" : 551,
+		"num_correct" : 398
+	},
+	{
+		"user_id" : 262,
+		"num_attempts" : 1315,
+		"num_correct" : 915
+	},
+	{
+		"user_id" : 362,
+		"num_attempts" : 2131,
+		"num_correct" : 1463
+	},
+	{
+		"user_id" : 408,
+		"num_attempts" : 5755,
+		"num_correct" : 3083
+	},
+	{
+		"user_id" : 180,
+		"num_attempts" : 7182,
+		"num_correct" : 3703
+	},
+	{
+		"user_id" : 246,
+		"num_attempts" : 4782,
+		"num_correct" : 2164
+	},
+	{
+		"user_id" : 346,
+		"num_attempts" : 3708,
+		"num_correct" : 1568
+	},
+	{
+		"user_id" : 112,
+		"num_attempts" : 7351,
+		"num_correct" : 2876
+	},
+	{
+		"user_id" : 155,
+		"num_attempts" : 16591,
+		"num_correct" : 7330
+	},
+	{
+		"user_id" : 126,
+		"num_attempts" : 32267,
+		"num_correct" : 16354
+	},
+	{
+		"user_id" : 237,
+		"num_attempts" : 11757,
+		"num_correct" : 7095
+	},
+	{
+		"user_id" : 395,
+		"num_attempts" : 16699,
+		"num_correct" : 11468
+	},
+	{
+		"user_id" : 63,
+		"num_attempts" : 15038,
+		"num_correct" : 9458
+	},
+	{
+		"user_id" : 292,
+		"num_attempts" : 4315,
+		"num_correct" : 2975
+	},
+	{
+		"user_id" : 387,
+		"num_attempts" : 4874,
+		"num_correct" : 3224
+	},
+	{
+		"user_id" : 690,
+		"num_attempts" : 4741,
+		"num_correct" : 2824
+	},
+	{
+		"user_id" : 575,
+		"num_attempts" : 3381,
+		"num_correct" : 1989
+	},
+	{
+		"user_id" : 467,
+		"num_attempts" : 4196,
+		"num_correct" : 2105
+	},
+	{
+		"user_id" : 386,
+		"num_attempts" : 5559,
+		"num_correct" : 3084
+	},
+	{
+		"user_id" : 213,
+		"num_attempts" : 4910,
+		"num_correct" : 2755
+	},
+	{
+		"user_id" : 149,
+		"num_attempts" : 1430,
+		"num_correct" : 696
+	},
+	{
+		"user_id" : 343,
+		"num_attempts" : 5397,
+		"num_correct" : 2532
+	},
+	{
+		"user_id" : 436,
+		"num_attempts" : 10780,
+		"num_correct" : 5121
+	},
+	{
+		"user_id" : 546,
+		"num_attempts" : 10434,
+		"num_correct" : 5085
+	},
+	{
+		"user_id" : 695,
+		"num_attempts" : 4352,
+		"num_correct" : 1855
+	},
+	{
+		"user_id" : 561,
+		"num_attempts" : 3785,
+		"num_correct" : 1773
+	},
+	{
+		"user_id" : 459,
+		"num_attempts" : 6076,
+		"num_correct" : 2883
+	},
+	{
+		"user_id" : 545,
+		"num_attempts" : 9169,
+		"num_correct" : 3885
+	},
+	{
+		"user_id" : 360,
+		"num_attempts" : 22581,
+		"num_correct" : 9569
+	},
+	{
+		"user_id" : 63,
+		"num_attempts" : 24635,
+		"num_correct" : 12668
+	},
+	{
+		"user_id" : 86,
+		"num_attempts" : 16778,
+		"num_correct" : 10214
+	},
+	{
+		"user_id" : 488,
+		"num_attempts" : 4016,
+		"num_correct" : 2144
+	},
+	{
+		"user_id" : 149,
+		"num_attempts" : 2795,
+		"num_correct" : 1598
+	},
+	{
+		"user_id" : 575,
+		"num_attempts" : 3939,
+		"num_correct" : 2231
+	},
+	{
+		"user_id" : 209,
+		"num_attempts" : 3161,
+		"num_correct" : 2207
+	},
+	{
+		"user_id" : 484,
+		"num_attempts" : 9157,
+		"num_correct" : 5311
+	},
+	{
+		"user_id" : 117,
+		"num_attempts" : 10810,
+		"num_correct" : 5942
+	},
+	{
+		"user_id" : 137,
+		"num_attempts" : 11279,
+		"num_correct" : 6485
+	},
+	{
+		"user_id" : 454,
+		"num_attempts" : 3147,
+		"num_correct" : 1557
+	}
+]

@@ -1,0 +1,7 @@
+USE <your_database_name>
+GO
+SELECT COUNT(*)
+FROM sysusers
+SELECT name, createdate
+FROM sysusers
+GO

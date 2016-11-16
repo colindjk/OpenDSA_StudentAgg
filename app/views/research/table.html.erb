@@ -1,0 +1,5 @@
+<%= form_for @table do |f| %>
+<div>name<%= f.text_field :table_name %></div>
+<div>comment<%= f.text_area :comment %></div>
+<div><%= f.submit "submit" %></div>
+<% end %>
